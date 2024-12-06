@@ -1,0 +1,8 @@
+{
+    "products": [
+      { "id": 1, "name": "Laptop", "price": 100, "category": "Electronics" },
+      { "id": 2, "name": "T-Shirt", "price": 200, "category": "Clothing" },
+      { "id": 3, "name": "Headphones", "price": 150, "category": "Electronics" },
+      { "id": 4, "name": "DailyEssentials", "price": 50, "category": "Groceries" }
+    ]
+}
